@@ -17,7 +17,7 @@ bower install console-magic
 #### CDN
 
 ```
-https://unpkg.com/console-magic
+https://unpkg.com/console-magic/console-magic.min.js
 ```
 
 ### License
