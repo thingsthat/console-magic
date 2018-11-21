@@ -1,0 +1,25 @@
+{
+    "name": "console-magic",
+    "description": "Giving your console a little sparkle",
+    "license": "MIT",
+    "url": "https://github.com/thingsthat/console-magic",
+    "keywords": [
+        "console"
+    ],
+    "version": "1.0.0",
+    "author": "Jack Prosser <jack@thingsthat.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thingsthat/console-magic.git"
+    },
+    "main": "console-magic.min.js",
+    "devDependencies": {
+        "rollup": "^0.67.3",
+        "rollup-plugin-commonjs": "^9.2.0",
+        "rollup-plugin-node-resolve": "^3.4.0",
+        "rollup-plugin-terser": "^3.0.0"
+    },
+    "scripts": {
+        "build": "rollup -c rollup.config.js"
+    }
+}

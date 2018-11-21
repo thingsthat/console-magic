@@ -1,0 +1,15 @@
+{
+  "name": "console-magic",
+  "version": "1.0.0",
+  "description": "Giving your console a little sparkle",
+  "main": "console-magic.min.js",
+  "license": "MIT",
+  "author": "Jack Prosser <jack@thingsthat.com>",
+  "homepage": "https://thingsthat.com",
+  "ignore": [
+    "**/.*",
+    "package-lock.json",
+    "package.json"
+  ]
+}
+  
